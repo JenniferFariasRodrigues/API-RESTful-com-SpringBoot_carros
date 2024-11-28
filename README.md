@@ -1,7 +1,7 @@
 <p align="center">
- <img src="https://www.pngitem.com/pimgs/m/108-1085187_free-cars-hd-png-download.png" height="200" width="250">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Automobile_PNG_Photo.png/800px-Automobile_PNG_Photo.png" height="200" width="250"> 
- <img src="https://static.vecteezy.com/system/resources/previews/001/199/360/non_2x/classic-car-png.png" height="200" width="250">
+ <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="200" width="250" alt="Java Logo">  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Spring_Framework_Logo_2018.svg" height="200" width="250" alt="Spring Boot Logo"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/H2_logo.svg" height="200" width="250" alt="H2 Database Logo">
 </p>
 
 <h1 align="center"> Carros API </h1>
@@ -96,7 +96,7 @@ Response: 204 No Content.
 Project Structure
 
 css
----
+ ```
 carros/
 ├── src/
 │   ├── main/
@@ -113,6 +113,7 @@ carros/
 ├── pom.xml
 └── README.md
  ```
+---
 Contribution
 Feel free to contribute to this project by submitting pull requests. Make sure your changes are well-documented and pass all tests before submission.
 
