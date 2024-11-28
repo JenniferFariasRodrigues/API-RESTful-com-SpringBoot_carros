@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="200" width="250" alt="Java Logo">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Spring_Framework_Logo_2018.svg" height="200" width="250" alt="Spring Boot Logo"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/H2_logo.svg" height="200" width="250" alt="H2 Database Logo">
+ <img src="https://spring.io/images/spring-logo-2019-3cfb7c783edb3577c56b27fb5bf2fbc6.svg" height="200" width="250" alt="Spring Boot Logo"> 
+ <img src="https://h2database.com/html/images/h2-logo-2.png" height="200" width="250" alt="H2 Database Logo">
 </p>
 
 <h1 align="center"> Carros API </h1>
@@ -95,7 +95,7 @@ Endpoint: /{id}
 Response: 204 No Content.
 Project Structure
 
-css
+
  ```
 carros/
 ├── src/
