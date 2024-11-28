@@ -36,7 +36,7 @@ The **Carros API** is a backend project developed using Java and Spring Boot. It
 #### Steps to Run
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/carros-api.git
 
 Navigate to the project directory:
@@ -94,8 +94,9 @@ Method: DELETE
 Endpoint: /{id}
 Response: 204 No Content.
 Project Structure
+
 css
-Copiar código
+---
 carros/
 ├── src/
 │   ├── main/
@@ -111,6 +112,7 @@ carros/
 │           └── com.example.carros/
 ├── pom.xml
 └── README.md
+ ```
 Contribution
 Feel free to contribute to this project by submitting pull requests. Make sure your changes are well-documented and pass all tests before submission.
 
