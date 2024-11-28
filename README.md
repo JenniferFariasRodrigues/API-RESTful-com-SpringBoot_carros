@@ -37,33 +37,29 @@ The **Carros API** is a backend project developed using Java and Spring Boot. It
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/carros-api.git
+   git clone https://github.com/JenniferFariasRodrigues/API-RESTful-com-SpringBoot_carros.git
 
 Navigate to the project directory:
-
-Copiar código
 cd carros
+
 Build the project:
-
-Copiar código
 ./mvnw clean install
-Run the application:
 
-Copiar código
+Run the application:
 ./mvnw spring-boot:run
 
 Access the API documentation:
 Open your browser and go to http://localhost:8080/swagger-ui/.
 
-API Endpoints
+## API Endpoints
 Base URL: /api/v1/cars
 
-1. Get All Cars
+### 1. Get All Cars
 Method: GET
 Endpoint: /
 Response: List of cars.
 
-3. Add a New Car
+### 2. Add a New Car
 Method: POST
 Endpoint: /
 Body:
@@ -76,7 +72,7 @@ Copiar código
 }
 Response: Details of the created car.
 
-5. Update a Car
+### 3. Update a Car
 Method: PUT
 Endpoint: /{id}
 Body:
@@ -89,12 +85,12 @@ Copiar código
 }
 Response: Details of the updated car.
 
-7. Delete a Car
+### 4. Delete a Car
 Method: DELETE
 Endpoint: /{id}
 Response: 204 No Content.
-Project Structure
 
+## Project Structure
 
  ```
 carros/
